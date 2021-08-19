@@ -1,5 +1,5 @@
 # python-exercises
 
-linear regression 
+1) Linear regression implementation
 
-Maze generation: Growing Tree algorithm
+2) Maze generation: Growing Tree algorithm
